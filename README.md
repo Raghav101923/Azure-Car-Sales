@@ -71,6 +71,7 @@ The project workflow comprises the following components:
 
 - **Power BI Dashboards**:
   - Currently developing interactive dashboards to showcase:
+    - This is a serverless SQL report.
     - Sales trends over time.
     - Dealership performance metrics.
     - Customer and sales insights.
